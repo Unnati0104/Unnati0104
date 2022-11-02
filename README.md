@@ -7,8 +7,8 @@ ___
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web Devlopment
-- 🌱 I’m currently learning MERN Stack Devlopment
+- 🔭 I’m currently working on Salesforce
+- 🌱 I learned MERN Stack Devlopment
 - 💬 Ask me about Front-end projects, I would love to work on it
 - 📫 How to reach me unnatig412000@gmail.com
 <!-- - 👯 I’m looking to collaborate on ...
